@@ -1,0 +1,36 @@
+	Person 1 
+
+1. signup and login
+2. confirm the link which you will get in email.
+3. download git  -> download git //install
+	3.1 check the installation of git 
+		search cmd > type "git" 
+4. Create new Repository and name it.
+5. create folder and go to that folder path 
+	5.1 open cmd > drag the folder > type cd
+	  before the path > press enter
+	5.2 if differnt drive type -> driveName : - eg I:
+6. git init  // it will initialize the folder as git.
+7. create a text file or any (inside the folder) and add
+any line of code.
+8. git add .(n number of files) or file1,file2 (specific);
+9. git commit -m "name of commit".
+10. git log  // to check the number of commits.
+11. git remote add origin https://github.com/angularbatch2018/webProject.git
+12. git remote   //check the remote name 
+13. git push -u origin(remoteName) master(branch).
+
+	Person 2 
+
+1. signup and login
+2. confirm the link which you will get in email.
+3. download git  -> download git //install
+	3.1 check the installation of git 
+		search cmd > type "git" 
+4. create folder and go to that folder path 
+	4.1 open cmd > drag the folder > type cd
+	  before the path > press enter
+	4.2 if differnt drive type -> driveName : - eg I:
+5. git clone "url from website"
+6. git pull  //pull the changes 
+
